@@ -1,4 +1,4 @@
-import { Country } from "../components/types";
+import { Country } from "../types";
 
 export const countries: Country[] = [
   { code: "US", name: "Estados Unidos" },
